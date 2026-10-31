@@ -1,3 +1,5 @@
+> **Archived.** This is the old Laravolt website (old.laravolt.dev) and is no longer published. Current documentation: https://laravolt.dev
+
 # Laravolt Documentation
 
 https://laravolt.dev
